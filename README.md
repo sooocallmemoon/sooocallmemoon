@@ -5,5 +5,5 @@ Hi there 👋
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about everything
-- 📫 How to reach me: hello@oxoomy.fr / oxoomy.fr
+- 📫 How to reach me: 
 - 😄 Pronouns: he/him/his
