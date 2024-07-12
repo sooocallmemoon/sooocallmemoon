@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour bonjour 👋!</h1>
 <div align="center">
-  <a href="https://discord.gg/E8g7wA5sdP" target="_blank"><img src="https://img.shields.io/badge/Discord-yeyeeee__-red?style=for-the-badge&logo=discord" alt="Mon Discord" /></a>
+  <a href="---" target="_blank"><img src="https://img.shields.io/badge/Discord-yeyeeee__-red?style=for-the-badge&logo=discord" alt="Mon Discord" /></a>
   <br />
   <a href="https://oxoomy.fr" target="_blank"><img src="https://img.shields.io/badge/Site-oxoomy.fr-red?style=for-the-badge&logo=safari" alt="Site" /></a>
 </div>
